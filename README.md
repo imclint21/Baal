@@ -1,4 +1,4 @@
-﻿# Ba'al API
+﻿# Baal Web API
 
 This is a simple .Net Core SaaS API, to manage Orders, Invoices issuing, Users etc. 🚀
 
